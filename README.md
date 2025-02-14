@@ -1,4 +1,25 @@
 # AB_NYC_2019 Dataset Cleaning and Preprocessing
+
+## Table of Contents
+1. [AB_NYC_2019 Dataset Cleaning and Preprocessing](#ab_nyc_2019-dataset-cleaning-and-preprocessing)
+2. [Project Overview](#project-overview)
+3. [Project Scope](#project-scope)
+4. [Out of Scope](#out-of-scope)
+5. [Dataset Description](#dataset-description)
+6. [Key Attributes](#key-attributes)
+7. [Methodology](#methodology)
+   - [1. Data Loading and Initial Inspection](#1-data-loading-and-initial-inspection)
+   - [2. Handling Missing Values](#2-handling-missing-values)
+   - [3. Handling Duplicates](#3-handling-duplicates)
+   - [4. Handling Outliers (Winsorization Method)](#4-handling-outliers-winsorization-method)
+     - [4.1 Price Column](#41-price-column)
+     - [4.2 Minimum Nights Column](#42-minimum-nights-column)
+     - [4.3 Number of Reviews Column](#43-number-of-reviews-column)
+     - [4.4 Reviews Per Month Column](#44-reviews-per-month-column)
+     - [4.5 Comparison of Statistics before and after cleaning](#45-comparison-of-statistics-before-and-after-cleaning)
+8. [Summary of Data Cleaning Process](#summary-of-data-cleaning-process)
+9. [Final Notes](#final-notes)
+
 ## Project Overview
 This project aims to clean and preprocess the AB_NYC_2019 dataset to ensure data consistency, accuracy, and readiness for further analysis. The goal is to enable reliable insights into Airbnb listings in New York City.
 ## Project Scope

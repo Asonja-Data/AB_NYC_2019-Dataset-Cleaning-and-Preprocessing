@@ -13,7 +13,7 @@ This project is dedicated to the thorough cleaning and preprocessing of the AB_N
 -	Feature engineering and model building.
 
 ## Data source
-- <a href"https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data">Dataset/a>
+-<a href"https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data">Dataset/a>
 
 ## Dataset Description
 -	File Name: AB_NYC_2019.ipynb

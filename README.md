@@ -11,8 +11,11 @@ This project is dedicated to the thorough cleaning and preprocessing of the AB_N
 ## Out of Scope
 -	Exploratory Data Analysis (EDA) beyond cleaning.
 -	Feature engineering and model building.
-## Dataset Description
 
+## Data source
+- <a href"https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data">Dataset</a>
+
+## Dataset Description
 -	File Name: AB_NYC_2019.ipynb
 -	Dataset Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 -	Size: 48,895 rows × 16 columns

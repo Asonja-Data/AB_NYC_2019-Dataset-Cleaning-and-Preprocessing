@@ -1,5 +1,5 @@
 # AB_NYC_2019 Dataset Cleaning and Preprocessing
-## Project Oerview
+## Project Overview
 This project aims to clean and preprocess the AB_NYC_2019 dataset to ensure data consistency, accuracy, and readiness for further analysis. The goal is to enable reliable insights into Airbnb listings in New York City.
 ## Project Scope
 This project is dedicated to the thorough cleaning and preprocessing of the AB_NYC_2019 dataset, which contains valuable information about New York City’s rental market. Key tasks include:
